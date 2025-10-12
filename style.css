@@ -1,0 +1,22 @@
+.input {
+    width: 20rem;
+    padding-bottom: 1rem;
+    border: #0000;
+}
+
+.btn-1 {
+    background-color: #86a021;
+}
+
+#output {
+    margin: 0 30%;
+}
+
+#item {
+    display: flex;
+    justify-content: space-bet
+}
+
+#btn-1 {
+    border: none;
+}
