@@ -14,8 +14,9 @@
 
 #item {
     display: flex;
-    justify-content: space-bet
+    justify-content: space-between;
 }
+
 
 #btn-1 {
     border: none;
